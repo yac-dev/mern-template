@@ -1,0 +1,15 @@
+.mapbox-logo {
+  display: none !important;
+}
+.mapboxgl-ctrl-logo {
+  display: none !important;
+}
+.mapbox-improve-map {
+  display: none !important;
+}
+.mapbox {
+  display: none !important;
+}
+.mapbox-open-street-map {
+  display: none !important;
+}

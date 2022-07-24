@@ -1,0 +1,8 @@
+.poll-info-wrapper {
+  padding: 10px;
+}
+
+.right-placed-info {
+  display: flex;
+  justify-content: right;
+}
